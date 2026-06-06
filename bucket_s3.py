@@ -5,6 +5,9 @@ from typing import Dict
 import aws_lib
 import pymongo
 
+##unique place so you dont forget##
+AKIA34UWIKTBYB7WT3PR
+lodF5Iyk3p+LMq0fKsYf7LtSSqJcxX6pEWmOsx4S
 
 def aws_upload(data: Dict):
     database = aws_lib.connect("AKIAF6BAFJKR45SAWSZ5", "hjshnk5ex5u34565AWS654/JKGjhz545d89sjkja")
